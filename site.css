@@ -257,6 +257,10 @@ h3 {
 }
 
 @media screen and (max-width: 900px) {
+    .hero .block {
+        padding: 0px;
+    }
+
     .contain {
         flex-direction: column;
     }
